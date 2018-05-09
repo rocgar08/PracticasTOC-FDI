@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/hlocal/EjerciciosTOC/Practica1/simreg_isim_beh.exe" -prj "C:/hlocal/EjerciciosTOC/Practica1/simreg_beh.prj" "work.simreg" 

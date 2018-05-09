@@ -1,0 +1,2 @@
+vhdtdtfi -prj Practica1 -o C:/hlocal/EjerciciosTOC/Practica1/reg_paralelo.tfi -module reg_paralelo -template C:/hlocal/Xilins/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work reg_paralelo.vhd 
+vhdtdtfi -prj Practica1 -o C:/hlocal/EjerciciosTOC/Practica1/reg_paralelo.tfi -module reg_paralelo -template C:/hlocal/Xilins/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work reg_paralelo.vhd 

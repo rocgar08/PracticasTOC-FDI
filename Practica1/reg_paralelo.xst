@@ -1,0 +1,5 @@
+set -tmpdir "C:/hlocal/EjerciciosTOC/Practica1/xst/projnav.tmp"
+set -xsthdpdir "C:/hlocal/EjerciciosTOC/Practica1/xst"
+elaborate
+-ifn reg_paralelo.prj
+-ifmt mixed

@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+reg_paralelo instance_name (
+    .rst(rst), 
+    .clk(clk), 
+    .load(load), 
+    .E(E), 
+    .S(S)
+    );
+
+

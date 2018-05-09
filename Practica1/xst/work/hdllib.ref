@@ -1,0 +1,4 @@
+AR reg_paralelo circuito C:/hlocal/EjerciciosTOC/Practica1/reg_paralelo.vhd sub00/vhpl03 1506967030
+AR sumador behavioral C:/hlocal/EjerciciosTOC/Practica1/sumador.vhd sub00/vhpl01 1506966904
+EN reg_paralelo NULL C:/hlocal/EjerciciosTOC/Practica1/reg_paralelo.vhd sub00/vhpl02 1506967029
+EN sumador NULL C:/hlocal/EjerciciosTOC/Practica1/sumador.vhd sub00/vhpl00 1506966903
