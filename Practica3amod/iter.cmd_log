@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/Practica3amod/iter.xst" -ofn "C:/hlocal/EjerciciosTOC/Practica3amod/iter.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-4 iter.ngc iter.ngd  
