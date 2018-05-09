@@ -1,0 +1,17 @@
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim UM.ngc UM_synthesis.v 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim UM.ngc UM_synthesis.v 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1000-ft256-4 UM.ngc UM.ngd  
+map -intstyle ise -p xc3s1000-ft256-4 -cm area -ir off -pr off -c 100 -o UM_map.ncd UM.ngd UM.pcf 
+xst -intstyle ise -ifn "C:/hlocal/EjerciciosTOC/practica3b/UM.xst" -ofn "C:/hlocal/EjerciciosTOC/practica3b/UM.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim UM.ngc UM_synthesis.v 

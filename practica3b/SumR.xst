@@ -1,0 +1,5 @@
+set -tmpdir "C:/hlocal/EjerciciosTOC/practica3b/xst/projnav.tmp"
+set -xsthdpdir "C:/hlocal/EjerciciosTOC/practica3b/xst"
+elaborate
+-ifn SumR.prj
+-ifmt mixed

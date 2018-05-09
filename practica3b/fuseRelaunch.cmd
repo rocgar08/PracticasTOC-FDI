@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/hlocal/EjerciciosTOC/practica3b/UMtb_isim_beh.exe" -prj "C:/hlocal/EjerciciosTOC/practica3b/UMtb_beh.prj" "work.UMtb" 
